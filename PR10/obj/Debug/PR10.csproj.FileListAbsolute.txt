@@ -1,0 +1,7 @@
+C:\Users\1210-5\Documents\PR10\PR10\bin\Debug\PR10.exe.config
+C:\Users\1210-5\Documents\PR10\PR10\bin\Debug\PR10.exe
+C:\Users\1210-5\Documents\PR10\PR10\bin\Debug\PR10.pdb
+C:\Users\1210-5\Documents\PR10\PR10\obj\Debug\PR10.csproj.AssemblyReference.cache
+C:\Users\1210-5\Documents\PR10\PR10\obj\Debug\PR10.csproj.CoreCompileInputs.cache
+C:\Users\1210-5\Documents\PR10\PR10\obj\Debug\PR10.exe
+C:\Users\1210-5\Documents\PR10\PR10\obj\Debug\PR10.pdb
